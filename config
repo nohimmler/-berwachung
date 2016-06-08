@@ -1,0 +1,38 @@
+-Mail Part-
+username=
+userpass=
+popserver=
+smtpserver=
+SenderAddr=
+Subjectpic=Pic
+Subjectvid=Vid
+MailText=MailText
+intervall=60
+
+-FTP Part-
+ftpMode=yes
+ftpserver=
+ftpuser=
+ftppwd=
+ftpfile=
+
+-Pic Part-
+picfile=pic
+picwidth=1280
+picheight=960
+
+-Speicherung-
+-usb/sdcard-
+saveon=sdcard
+
+-Bewegungssensor Part-
+sensorpin=11
+
+-Vid Part-
+vidmail=
+vidfile=vid
+vidwidth=1280
+vidheight=960
+gibt die Videoaufnahmezeit an bitte in sekunden angeben
+vidtime=60
+-END-
